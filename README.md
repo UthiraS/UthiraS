@@ -45,7 +45,7 @@ ___
 
 ___
 ### Contact 📫
-- Website: [uthiralakshmisivaraman.github.io](https://uthiras.github.io/)
+- Website: [uthiras.github.io](https://uthiras.github.io/)
 - LinkedIn: [Uthiralakshmi Sivaraman](https://www.linkedin.com/in/uthiralakshmi-sivaraman/)
 - Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
 
