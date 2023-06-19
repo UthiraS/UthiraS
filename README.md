@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **UthiraS/UthiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,20 +35,17 @@ ___
 ___
 ### Key Projects 🔭
 
-- [Visual Inertial Odometry](https://github.com/UthiralakshmiSivaraman/Visual-Inertial-Odometry) (April 2023)
-- [Structure from Motion and NeRF](https://github.com/UthiralakshmiSivaraman/Structure-from-Motion-and-NeRF) (March 2023)
-- [AutoCalib - Camera Calibration](https://github.com/UthiralakshmiSivaraman/AutoCalib-Camera-Calibration) (Feb 2023)
-- [AutoPano - Panorama Stitching](https://github.com/UthiralakshmiSivaraman/AutoPano-Panorama-Stitching) (Feb 2023)
-- [CIFAR 10 Data Classification](https://github.com/UthiralakshmiSivaraman/CIFAR-10-Data-Classification) (Jan 2023)
-- [Lite version of Probability based Edge Detection](https://github.com/UthiralakshmiSivaraman/Lite-version-of-Probability-based-Edge-Detection) (Jan 2023)
-- [Deep Reinforcement learning based Continuous Control](https://github.com/UthiralakshmiSivaraman/Deep-Reinforcement-learning-based-Continuous-Control) (Dec 2022)
-- [Deep Reinforcement Learning for Value Function Estimation](https://github.com/UthiralakshmiSivaram
 
-an/Deep-Reinforcement-Learning-for-Value-Function-Estimation) (Nov 2022)
+- [Structure from Motion and NeRF](https://github.com/UthiraS/SFM_NERF) (Compter Vision)
+- [AutoCalib - Camera Calibration](https://github.com/UthiraS/RBE549_AutoCalib)) (Computer Vision)
+- [AutoPano - Panorama Stitching](https://github.com/UthiraS/RBE549_AutoPano) (Computer Vision)
+- [CIFAR 10 Data Classification and Lite version of Probability based Edge Detection](https://github.com/UthiraS/RBE549_Alohomora)) (Computer Vision)
+- [Deep Reinforcement learning based Continuous Control](https://github.com/UthiralakshmiSivaraman/Deep-Reinforcement-learning-based-Continuous-Control) (Reinforcement Learning)
+- [Deep Reinforcement Learning for Value Function Estimation](https://github.com/UthiraS/CS595-DQN_ATARI)(Reinforcement Learning)
 
 ___
 ### Contact 📫
-- Website: [uthiralakshmisivaraman.github.io](https://uthiralakshmisivaraman.github.io/)
+- Website: [uthiralakshmisivaraman.github.io](https://uthiras.github.io/)
 - LinkedIn: [Uthiralakshmi Sivaraman](https://www.linkedin.com/in/uthiralakshmi-sivaraman/)
 - Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
 
