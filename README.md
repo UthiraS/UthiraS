@@ -37,7 +37,7 @@ ___
 
 
 - [Structure from Motion and NeRF](https://github.com/UthiraS/SFM_NERF) (Compter Vision)
-- [AutoCalib - Camera Calibration](https://github.com/UthiraS/RBE549_AutoCalib)) (Computer Vision)
+- [AutoCalib - Camera Calibration](https://github.com/UthiraS/RBE549_AutoCalib) (Computer Vision)
 - [AutoPano - Panorama Stitching](https://github.com/UthiraS/RBE549_AutoPano) (Computer Vision)
 - [CIFAR 10 Data Classification and Lite version of Probability based Edge Detection](https://github.com/UthiraS/RBE549_Alohomora)) (Computer Vision)
 - [Deep Reinforcement learning based Continuous Control](https://github.com/UthiralakshmiSivaraman/Deep-Reinforcement-learning-based-Continuous-Control) (Reinforcement Learning)
