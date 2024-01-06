@@ -59,7 +59,7 @@ ___
 - [CIFAR 10 Data Classification and Lite version of Probability based Edge Detection](https://github.com/UthiraS/RBE549_Alohomora)) (Computer Vision)
 - [Deep Reinforcement learning based Continuous Control](https://github.com/UthiralakshmiSivaraman/Deep-Reinforcement-learning-based-Continuous-Control) (Reinforcement Learning)
 - [Deep Reinforcement Learning for Value Function Estimation](https://github.com/UthiraS/CS595-DQN_ATARI)(Reinforcement Learning)
-- - [Predicting Object Dynamics from Image Sequences: A precursor to Autonomous Object Manipulation](https://github.com/UthiraS/UniversityOfLincoln--Precursor-to-Autonomous-Manipulation)(Computer Vision)
+- [Predicting Object Dynamics from Image Sequences: A precursor to Autonomous Object Manipulation](https://github.com/UthiraS/UniversityOfLincoln--Precursor-to-Autonomous-Manipulation)(Computer Vision)
 
 ___
 ### Contact 📫
