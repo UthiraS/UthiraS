@@ -1,5 +1,6 @@
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=UthiraS&label=Profile+Views&color=blueviolet)
+---
 <!--
 **UthiraS/UthiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
