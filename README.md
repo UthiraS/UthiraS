@@ -68,9 +68,6 @@ ___
 - LinkedIn: [Uthiralakshmi Sivaraman](https://www.linkedin.com/in/uthiralakshmi-sivaraman/)
 - Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UthiraS&label=Profile%20views&color=0e75b6&style=flat" alt="UthiralakshmiSivaraman" /> </p>
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=UthiraS&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **UthiralakshmiSivaraman/UthiralakshmiSivaraman** is a Robotics graduate student at Worcester Polytechnic Institute, MA, USA. I am skilled in Python, C++, C#, KRL, and MATLAB, and proficient with PyTorch, Linux, ROS/ROS2, LaTeX, GIT, OpenCV, Gazebo, Vrep, Unity. I also have experience with various deep learning architectures such as ResNet, ResNeXt, DenseNet, Encoder-Decoder, LSTM, Homography Net, and NeRF. 
@@ -79,7 +76,9 @@ ___
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UthiraS&theme=highcontrast)](https://git.io/streak-stats)
 
+![Sivaranjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=UthiraS&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UthiraS)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
