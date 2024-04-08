@@ -19,16 +19,6 @@ Here are some ideas to get you started:
 ## Welcome to my GitHub page! 👋 - Uthiralakshmi Sivaraman
 
 
-### Education 🎓
-- Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (Aug 2022 - May 2024)
-  - Courses: Foundation of Robotics, Human Robot Interaction, Reinforcement Learning, Classical and Deep Learning Approaches for Geometric Computer Vision, Robot Control
-- Bachelor of Technology in Electrical and Electronics Engineering, [SASTRA Deemed University, India](https://www.sastra.edu/) (June 2015 - May 2019)
-___
-### Skills 🔧
-- Languages: Python, C++, C#, KRL, MATLAB
-- Platforms/ Software: PyTorch, Linux, ROS/ROS2, LaTeX, GIT, OpenCV, Gazebo, Vrep, Unity
-- Architectures: ResNet, ResNeXt, DenseNet, Encoder-Decoder, LSTM, Homography Net, NeRF
-
   ### Languages and Tools Used 💻:
 
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino)
