@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome to my GitHub page! 👋 - Uthiralakshmi Sivaraman
-### Contact 📫
+
+
+### LinkedIn and Contact 📫
 - Website: [uthiras.github.io](https://uthiras.github.io/)
 - LinkedIn: [Uthiralakshmi Sivaraman](https://www.linkedin.com/in/uthiralakshmi-sivaraman/)
 - Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
 
 
-  ### Languages and Tools Used 💻:
+### Languages and Tools Used 💻:
 
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino)
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
