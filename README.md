@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome to my GitHub page! 👋 - Uthiralakshmi Sivaraman
+### Contact 📫
+- Website: [uthiras.github.io](https://uthiras.github.io/)
+- LinkedIn: [Uthiralakshmi Sivaraman](https://www.linkedin.com/in/uthiralakshmi-sivaraman/)
+- Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
 
 
   ### Languages and Tools Used 💻:
@@ -35,35 +39,10 @@ Here are some ideas to get you started:
 ![scikit_learn](https://img.shields.io/badge/-scikit_learn-black?style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
 
-___
-### Experience 🧰
-- Graduate Student Researcher, [Manipulation and Environmental Lab, WPI](https://www.wpi.edu/) (Jan 2023- present)
-- Project Associate, [HealthCare Technology Innovation Centre](https://www.iitm.ac.in/info/iit-madras-incubation-cell) (Nov 2020- April 2022)
-- Research Intern, [University of Lincoln](https://www.lincoln.ac.uk/home/) (Jan 2019- June 2019)
-___
-### Key Projects 🔭
-
-
-- [Structure from Motion and NeRF](https://github.com/UthiraS/SFM_NERF) (Compter Vision)
-- [AutoCalib - Camera Calibration](https://github.com/UthiraS/RBE549_AutoCalib) (Computer Vision)
-- [AutoPano - Panorama Stitching](https://github.com/UthiraS/RBE549_AutoPano) (Computer Vision)
-- [CIFAR 10 Data Classification and Lite version of Probability based Edge Detection](https://github.com/UthiraS/RBE549_Alohomora)) (Computer Vision)
-- [Deep Reinforcement learning based Continuous Control](https://github.com/UthiralakshmiSivaraman/Deep-Reinforcement-learning-based-Continuous-Control) (Reinforcement Learning)
-- [Deep Reinforcement Learning for Value Function Estimation](https://github.com/UthiraS/CS595-DQN_ATARI)(Reinforcement Learning)
-- [Predicting Object Dynamics from Image Sequences: A precursor to Autonomous Object Manipulation](https://github.com/UthiraS/Precursor-to-Autonomous-Manipulation)(Computer Vision)
 
 ___
-### Contact 📫
-- Website: [uthiras.github.io](https://uthiras.github.io/)
-- LinkedIn: [Uthiralakshmi Sivaraman](https://www.linkedin.com/in/uthiralakshmi-sivaraman/)
-- Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
 
 
-<!--
-**UthiralakshmiSivaraman/UthiralakshmiSivaraman** is a Robotics graduate student at Worcester Polytechnic Institute, MA, USA. I am skilled in Python, C++, C#, KRL, and MATLAB, and proficient with PyTorch, Linux, ROS/ROS2, LaTeX, GIT, OpenCV, Gazebo, Vrep, Unity. I also have experience with various deep learning architectures such as ResNet, ResNeXt, DenseNet, Encoder-Decoder, LSTM, Homography Net, and NeRF. 
-
-<a href="https://www.linkedin.com/in/uthiralakshmi-sivaraman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Uthiralakshmi" height="30" width="40" /></a>
--->
 
 
 ### :fire: My Stats 
