@@ -27,19 +27,18 @@ Here are some ideas to get you started:
 
 ### Languages and Tools Used 💻:
 
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino)
-![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
+
 ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
-![scikit_learn](https://img.shields.io/badge/-scikit_learn-black?style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
+![scikit_learn](https://img.shields.io/badge/-scikit_learn-black?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
+
 
 
 ___
