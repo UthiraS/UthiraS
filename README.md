@@ -34,6 +34,3 @@ Hi, I am a recent grad from Worcester Polytechnic Institute, specializing in rob
 
 ### Fun Fact 🎉
 - I enjoy solving complex algorithms, traveling to new areas, and cooking up new recipes in the kitchen!
-
-### Recent Blogs 📝
-- [My Latest Project Experience](#) (Update with real links to your blog or updates)
