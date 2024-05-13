@@ -6,7 +6,7 @@ Hi, I am a recent grad from Worcester Polytechnic Institute, specializing in rob
 
 ### Connect with me 🌐
 - Personal Website: [uthiras.github.io](https://uthiras.github.io/)
-- LinkedIn: [Connect]([https://www.linkedin.com/in/](https://www.linkedin.com/in/uthiralakshmis/))
+- LinkedIn: [Connect]([https://www.linkedin.com/in/](https://www.linkedin.com/in/uthiralakshmis/)
 - Email: [Send an Email](mailto:usivaraman@wpi.edu)
 
 ### Languages and Tools 🛠️
