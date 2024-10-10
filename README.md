@@ -30,7 +30,7 @@ Hi, I am a recent grad from Worcester Polytechnic Institute, specializing in rob
 ![Uthira's GitHub stats](https://github-readme-stats.vercel.app/api?username=UthiraS&show_icons=true&theme=buefy)
 
 ### Most Used Languages 🔝
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&layout=compact&theme=vision-friendly-dark)](https://github.com/UthiraS/github-readme-stats)
 
 ### Fun Fact 🎉
 - I enjoy solving complex algorithms, traveling to new areas, and cooking up new recipes in the kitchen!
