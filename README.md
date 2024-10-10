@@ -1,36 +1,69 @@
-![Profile Views](https://komarev.com/ghpvc/?username=UthiraS&label=Profile+Views&color=blueviolet)
+# Welcome to my GitHub page! 👋 - Uthiralakshmi Sivaraman
 
-# Welcome to my GitHub! 👋 I'm Uthiralakshmi Sivaraman
+I'm a Robotics Engineer with expertise in deep learning and computer vision. Currently working as a Robotics Software Intern at Void Robotics, focusing on DevOps and navigation systems. During my master's at WPI, I conducted research at the Manipulation & Environmental Robotics Lab, working on automated camera viewpoint generation and 3D object recognition using the Franka Emika Panda robot.
 
-Hi, I am a recent grad from Worcester Polytechnic Institute, specializing in robotics and deep learning. Check out what I'm working on!
+### 🔭 Current Work
+- Developing DevOps and CI/CD processes for ROS Nav2
+- Implementing Google Unit Testing for navigation systems
+- Working with micro-ROS and Arduino systems
 
-### Connect with me 🌐
-- Personal Website: [uthiras.github.io](https://uthiras.github.io/)
-- LinkedIn: [Connect](https://www.linkedin.com/in/uthiralakshmis/)
-- Email: [Send an Email](mailto:usivaraman@wpi.edu)
+### 🎓 Experience
+- **Void Robotics** - Robotics Software Intern
+  - ROS Nav2, DevOps, CI/CD, Unit Testing
+- **WPI Manipulation & Environmental Robotics Lab** - Graduate Researcher
+  - 3D Object Recognition, Robot Manipulation, ROS
+- **Healthcare Technology Innovation Center, IIT Madras** - Robotics Software Engineer
+  - Motion Planning, Medical Device Software, UR5e Robot
 
-### Languages and Tools 🛠️
+### 🛠️ Technical Skills
+- **Languages:** Python, Modern C++, MATLAB, Bash/Shell Scripting
+- **Robotics:** ROS/ROS2, PCL, Motion Planning, Robot Manipulation
+- **Deep Learning:** PyTorch, TensorFlow, CUDA
+- **Tools:** Git, Linux, SLURM, Docker, Jupyter Notebook
+- **Vision:** Intel RealSense, Point Cloud Processing, 3D Vision
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=white&color=505050)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white&color=505050)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white&color=505050)
-![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=white&color=505050)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=white&color=505050)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=white&color=505050)
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab&logoColor=white&color=505050)
-![ROS](https://img.shields.io/badge/-ROS/ROS2-05122A?style=flat&logo=ros&logoColor=white&color=505050)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white&color=505050)
-![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=nvidia&logoColor=white&color=505050)
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=white&color=505050)
+### 🚀 Featured Projects
 
+#### Tesla-like Full Self-Driving Visualization
+- Combined MaskRCNN, YOLOv5x for object detection and segmentation
+- Implemented Intel MiDaS transformer for monocular depth estimation
+- Created 3D visualization in Blender
 
-### My Stats 📊
+#### Neural Radiance Fields (NeRF) Implementation
+- Developed MLP for volumetric density and RGB prediction
+- Trained network using COLMAP-generated pose information
+
+#### Camera Calibration System
+- Implemented Zhang's calibration method
+- Achieved 0.7 pixel re-projection error using Levenberg-Marquardt optimization
+
+#### Sensor Fusion for Autonomous Systems
+- Built 3D camera positioning using stereo images and IMU
+- Implemented MSCKF algorithm on EuRoC dataset
+- Explored deep learning methods for visual-inertial odometry
+
+### 📫 Connect With Me
+- Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
+- LinkedIn: [uthiralakshmis](https://www.linkedin.com/in/uthiralakshmis/)
+- Website: [uthiras.github.io](https://uthiras.github.io/)
+- Location: Worcester, MA
+
+### 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=UthiraS&label=Profile%20views&color=0e75b6&style=flat)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UthiraS&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UthiraS&theme=react)](https://git.io/streak-stats)
 
-![Uthira's GitHub stats](https://github-readme-stats.vercel.app/api?username=UthiraS&show_icons=true&theme=buefy)
+### 🎯 Looking Forward
+Currently seeking full-time opportunities in Robotics and Artificial Intelligence, with a focus on:
+- Robot Perception and Navigation
+- Deep Learning Applications in Robotics
+- Computer Vision Systems
 
-### Most Used Languages 🔝
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&layout=compact&theme=vision-friendly-dark)](https://github.com/UthiraS/github-readme-stats)
+### ⚡ Fun Facts
+- Love experimenting with new recipes
+- Enjoy solving complex algorithms
+- Passionate about exploring new places
 
-### Fun Fact 🎉
-- I enjoy solving complex algorithms, traveling to new areas, and cooking up new recipes in the kitchen!
