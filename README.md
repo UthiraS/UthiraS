@@ -22,25 +22,6 @@ I'm a Robotics Engineer with expertise in deep learning and computer vision. Cur
 - **Tools:** Git, Linux, SLURM, Docker, Jupyter Notebook
 - **Vision:** Intel RealSense, Point Cloud Processing, 3D Vision
 
-### 🚀 Featured Projects
-
-#### Tesla-like Full Self-Driving Visualization
-- Combined MaskRCNN, YOLOv5x for object detection and segmentation
-- Implemented Intel MiDaS transformer for monocular depth estimation
-- Created 3D visualization in Blender
-
-#### Neural Radiance Fields (NeRF) Implementation
-- Developed MLP for volumetric density and RGB prediction
-- Trained network using COLMAP-generated pose information
-
-#### Camera Calibration System
-- Implemented Zhang's calibration method
-- Achieved 0.7 pixel re-projection error using Levenberg-Marquardt optimization
-
-#### Sensor Fusion for Autonomous Systems
-- Built 3D camera positioning using stereo images and IMU
-- Implemented MSCKF algorithm on EuRoC dataset
-- Explored deep learning methods for visual-inertial odometry
 
 ### 📫 Connect With Me
 - Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
