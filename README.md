@@ -39,12 +39,7 @@ I'm a Robotics Engineer with expertise in deep learning and computer vision. Cur
 
 ### 🎯 Looking Forward
 Currently seeking full-time opportunities in Robotics and Artificial Intelligence, with a focus on:
-- Robot Perception and Navigation
+- Robotic Software Development
 - Deep Learning Applications in Robotics
 - Computer Vision Systems
-
-### ⚡ Fun Facts
-- Love experimenting with new recipes
-- Enjoy solving complex algorithms
-- Passionate about exploring new places
 
