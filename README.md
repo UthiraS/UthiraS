@@ -16,22 +16,17 @@ I'm a Robotics Engineer with expertise in deep learning and computer vision. Cur
   - Motion Planning, Medical Device Software, UR5e Robot
 
 ### 🛠️ Technical Skills
-- **Languages:** Python, Modern C++, MATLAB, Bash/Shell Scripting
-- **Robotics:** ROS/ROS2, PCL, Motion Planning, Robot Manipulation
-- **Deep Learning:** PyTorch, TensorFlow, CUDA
-- **Tools:** Git, Linux, SLURM, Docker, Jupyter Notebook
-- **Vision:** Intel RealSense, Point Cloud Processing, 3D Vision
-
-##### Languages I use
-
+- **Languages:**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=mathworks)
 
-
-##### Technologies & Tools I work with
-
+- **Robotics:** ROS/ROS2, PCL, Motion Planning, Robot Manipulation
+- **Deep Learning:** PyTorch, TensorFlow, CUDA
+- **Tools:** Git, Linux, SLURM, Docker, Jupyter Notebook
+- **Vision:** Intel RealSense, Point Cloud Processing, 3D Vision
+- 
 ![ROS](https://img.shields.io/badge/-ROS-222222?style=flat&logo=ros&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/-ROS%202-222222?style=flat&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv&logoColor=5C3EE8)
