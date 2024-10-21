@@ -26,6 +26,7 @@ I'm a Robotics Engineer with expertise in deep learning and computer vision. Cur
 - **Deep Learning:** PyTorch, TensorFlow, CUDA
 - **Tools:** Git, Linux, SLURM, Docker, Jupyter Notebook
 - **Vision:** Intel RealSense, Point Cloud Processing, 3D Vision
+  
 ![ROS](https://img.shields.io/badge/-ROS-222222?style=flat&logo=ros&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/-ROS%202-222222?style=flat&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv&logoColor=5C3EE8)
