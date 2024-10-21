@@ -34,7 +34,7 @@ I'm a Robotics Engineer with expertise in deep learning and computer vision. Cur
 ![Profile Views](https://komarev.com/ghpvc/?username=UthiraS&label=Profile%20views&color=0e75b6&style=flat)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&langs_count=8&layout=compact&theme=highcontrast&exclude_repo=uthiras.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&langs_count=8&layout=compact&theme=highcontrast&exclude_repo=uthiras.github.io,rtde-2.8)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UthiraS&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
