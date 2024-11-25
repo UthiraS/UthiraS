@@ -2,10 +2,6 @@
 
 I'm a Robotics Engineer with expertise in deep learning and computer vision. Currently working as a Robotics Software Intern at Void Robotics, focusing on DevOps and navigation systems. During my master's at WPI, I conducted research at the Manipulation & Environmental Robotics Lab, working on automated camera viewpoint generation and 3D object recognition using the Franka Emika Panda robot.
 
-### 🔭 Current Work
-- Developing DevOps and CI/CD processes for ROS Nav2
-- Implementing Google Unit Testing for navigation systems
-- Working with micro-ROS and Arduino systems
 
 ### 🎓 Experience
 - **Void Robotics** - Robotics Software Intern
