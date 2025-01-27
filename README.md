@@ -9,16 +9,25 @@ Robotics Engineer specializing in deep learning, computer vision, and autonomous
 - **Healthcare Technology Innovation Center, IIT Madras** - Engineered robotic motion planning for medical applications
 
 ### 🛠️ Technical Skills
+- **Languages:**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![ROS](https://img.shields.io/badge/-ROS-222222?style=flat&logo=ros&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-Pytorch-222222?style=flat&logo=pytorch&logoColor=E04E39)
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=mathworks)
 
-### 📫 Connect
-- 📧 [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/uthiralakshmis/)
-- 🌐 [Portfolio](https://uthiras.github.io/)
+- **Tools and Technologies:**
+![ROS](https://img.shields.io/badge/-ROS-222222?style=flat&logo=ros&logoColor=white)
+![ROS 2](https://img.shields.io/badge/-ROS%202-222222?style=flat&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv&logoColor=5C3EE8)
+![Pytorch](https://img.shields.io/badge/-Pytorch-222222?style=flat&logo=pytorch&logoColor=E04E39)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
+![Gazebo](https://img.shields.io/badge/-Gazebo-222222?style=flat&logo=gazebo)
+![CUDA](https://img.shields.io/badge/-CUDA-222222?style=flat&logo=nvidia&logoColor=76B900)
+
+### 📫 Connect With Me
+- 📧 Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
+- 💼 LinkedIn: [uthiralakshmis](https://www.linkedin.com/in/uthiralakshmis/)
+- 🌐 Website: [uthiras.github.io](https://uthiras.github.io/)
+- 📍 Location: Worcester, MA
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&langs_count=8&layout=compact&theme=highcontrast)
