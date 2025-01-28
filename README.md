@@ -30,7 +30,7 @@ Robotics Engineer specializing in deep learning, computer vision, and autonomous
 - 📍 Location: Worcester, MA
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&langs_count=8&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&langs_count=8&layout=compact&theme=highcontrast&exclude_repo=uthiras.github.io,rtde-2.8)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UthiraS&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎯 Focus
