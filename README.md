@@ -26,7 +26,6 @@ Robotics Engineer specializing in deep learning, computer vision, and autonomous
 ### 📫 Connect With Me
 - 📧 Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
 - 💼 LinkedIn: [uthiralakshmis](https://www.linkedin.com/in/uthiralakshmis/)
-- 🌐 Website: [uthiras.github.io](https://uthiras.github.io/)
 - 📍 Location: Worcester, MA
 
 ### 📊 GitHub Stats
