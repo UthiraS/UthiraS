@@ -1,36 +1,36 @@
-# Hi there! I'm Uthiralakshmi Sivaraman 👋
+# Hi there 👋 I'm Uthiralakshmi Sivaraman
 
-Robotics Engineer specializing in deep learning, computer vision, and autonomous systems. Currently developing innovative solutions in robotics software, with expertise in ROS, AI, and advanced navigation technologies.
+Robotics Engineer specializing in deep learning, computer vision, and autonomous systems development.
 
-### 🎓 Experience
-- **Rebecca Everlene Trust Company** - Creating GPS-driven Augmented Reality features for interactive landmark learning using Unity
-- **Void Robotics** - Developed ROS Nav2 testing infrastructure and autonomous navigation for custom delivery robot
-- **WPI Manipulation & Environmental Robotics Lab** - Implemented 3D feature detection and imitation learning models
-- **Healthcare Technology Innovation Center, IIT Madras** - Engineered robotic motion planning for medical applications
+## 🤖 About Me
 
-### 🛠️ Technical Skills
-- **Languages:**
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=mathworks)
+I develop innovative solutions in robotics software, with expertise in ROS, AI, and advanced navigation. Currently working on GPS-driven AR applications for educational landmark learning with Unity.
 
-- **Tools and Technologies:**
-![ROS](https://img.shields.io/badge/-ROS-222222?style=flat&logo=ros&logoColor=white)
-![ROS 2](https://img.shields.io/badge/-ROS%202-222222?style=flat&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv&logoColor=5C3EE8)
-![Pytorch](https://img.shields.io/badge/-Pytorch-222222?style=flat&logo=pytorch&logoColor=E04E39)
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
-![Gazebo](https://img.shields.io/badge/-Gazebo-222222?style=flat&logo=gazebo)
-![CUDA](https://img.shields.io/badge/-CUDA-222222?style=flat&logo=nvidia&logoColor=76B900)
+## 💻 Technical Stack
 
-### 📫 Connect With Me
-- 📧 Email: [usivaraman@wpi.edu](mailto:usivaraman@wpi.edu)
-- 💼 LinkedIn: [uthiralakshmis](https://www.linkedin.com/in/uthiralakshmis/)
-- 📍 Location: Worcester, MA
+- **Languages**: Python, C++, C#, MATLAB, Bash
+- **Robotics**: ROS1/ROS2, Gazebo, Nav2, PCL
+- **AI/ML**: PyTorch, TensorFlow, CUDA, CNN, LSTM
+- **Vision**: OpenCV, PCL, Rviz, Blender
+- **Hardware**: Jetson Orin, UR5e, KUKA KR6R700-2, Franka Emika Panda
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&langs_count=8&layout=compact&theme=highcontrast&exclude_repo=uthiras.github.io,rtde-2.8)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UthiraS&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Experience Highlights
 
-### 🎯 Focus
-Advancing robotics through innovative software development, AI, and computer vision
+- **Autonomous Navigation**: Developed GPS-based systems with real-time feedback
+- **Medical Robotics**: Engineered collision detection for surgical applications
+- **3D Vision**: Implemented feature detection pipelines for robotic grasping
+- **Reinforcement Learning**: Created LSTM-based prediction models for object manipulation
+
+## 📈 Featured Projects
+
+- **LANDMARKS**: Educational AR app for child safety with Unity
+- **VOIDWALKING**: ROS2-based autonomous delivery robot
+- **Pallet Detection**: Computer vision system with YOLOv11 (0.95 maxIoU)
+- **Tesla-like FSD Visualization**: 3D perception stack using Intel MiDaS
+
+## 📫 Connect
+
+- 📧 Email: usivaraman@wpi.edu
+- 💼 [LinkedIn](https://linkedin.com/in/uthiralakshmis)
+- 🌐 [Personal Website](https://uthiras.github.io)
+- 📍 Worcester, MA
