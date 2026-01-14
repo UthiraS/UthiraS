@@ -6,10 +6,10 @@ Robotics Software Engineer working on embedded controls for industrial equipment
 Started at HTIC Medical Robotics → MS in Robotics Engineering at WPI → Autonomous delivery robots at Void Robotics → Currently developing embedded controls for boom and aerial lifts
 
 ## What I Work On
-- 🤖 Robotic manipulators (3-6 axis, 6 DOF)
+- 🤖 Robotic manipulators (6 axis, 6-7 DOF)
 - 👁️ Computer vision and perception systems
 - 🚗 Autonomous navigation
-- ⚙️ Embedded controls for industrial robotics
+- ⚙️ Embedded controls
 
 ## Featured Repos
 - **Tesla-like Self-Driving Visualization**: End-to-end ML pipeline with object detection and depth estimation
